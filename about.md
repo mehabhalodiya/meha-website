@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![Meha Bhalodiya](assets/Meha Bhalodiya.png)
+![Meha Bhalodiya](/assets/Meha Bhalodiya.png)
 
 <sub>I'm mostly an open-source enthusiast and a keen learner. Previously, was part of Kubernetes 1.23 Release Team as a Docs Shadow.</sub>
 

@@ -8,6 +8,4 @@ heading: ""
 
 ***This is my personal journal where I wish (and want) to lay down something everyday!***
 
-![Writing girl](https://user-images.githubusercontent.com/30499743/118234920-a4add980-b4b1-11eb-8cd4-65e6e6d8773b.png)
-
 ---
