@@ -7,7 +7,7 @@ layout: home
 
 ![My helpful screenshot](/assets/hello.png)
 
-## [Update: Kubernetes 1.24 Release Docs Shadow]( /_posts/2022-01-08-update.md)
+## [Update: Kubernetes 1.24 Release Docs Shadow]( /upstream-contribution/2022/01/08/update.html)
 
 January 08, 2022
 
@@ -22,7 +22,7 @@ _[Read more…](_posts/2022-01-08-update.md)_
 
 * * *
 
-## [As a Kubernetes 1.23 Release Docs Shadow!]( /_posts/2021-12-19-notes.md)
+## [As a Kubernetes 1.23 Release Docs Shadow!]( /upstream-contribution/2021/12/19/notes.html)
 
 December 19, 2021 
 
