@@ -3,15 +3,15 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Meha Bhalodiya 👋🏻
 ---
 
-![My helpful screenshot](/assets/hello.png)
 
 ## [Update: Kubernetes 1.24 Release Docs Shadow]( /upstream-contribution/2022/01/08/update.html)
 
 January 08, 2022
 
-👋 **_A very quick update!_**
+📝 **_A very quick update!_**
 
 I got selected as a Kubernetes 1.24 Release Docs Shadow. This is my second time as a Kubernetes Release Docs Shadow and I plan to keep doing it until I get it right with various SIG!
 
